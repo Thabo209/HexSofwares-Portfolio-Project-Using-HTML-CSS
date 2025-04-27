@@ -1,4 +1,4 @@
-# HexSofwares_Portfolio_Project_Using_HTML & CSS
+# HexSofwares_Personal_Portfolio_Project_Using_HTML & CSS
 
 This portfolio website features:
 
